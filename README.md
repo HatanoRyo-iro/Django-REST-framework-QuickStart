@@ -4,6 +4,7 @@
 
 Install using `pip`...
 
+    pip install django
     pip install djangorestframework
    
 Add `'rest_framework'` to your `INSTALLED_APPS` setting.
