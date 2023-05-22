@@ -1,4 +1,4 @@
-# Django-REST-framework-tutorial
+# DjangoRESTframework　QuickStart
 
 ## Installation
 
